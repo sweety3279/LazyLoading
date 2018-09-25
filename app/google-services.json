@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166581211145",
+    "firebase_url": "https://optcrm-20e62.firebaseio.com",
+    "project_id": "optcrm-20e62",
+    "storage_bucket": "optcrm-20e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166581211145:android:af4a3d424a9ea583",
+        "android_client_info": {
+          "package_name": "com.optcrm.optreporting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166581211145-mcnem6b9lnegpeg37n0qgktk6d6g0ls6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optcrm.optreporting",
+            "certificate_hash": "2985972328df285afdf84c1bb6b683d2e99b4fef"
+          }
+        },
+        {
+          "client_id": "166581211145-ij17tq1rnmsfblqjpoldir7tf7mid417.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvj_WUteoQCHRJ36rhxQ_CW_HW1kb9OKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166581211145-ij17tq1rnmsfblqjpoldir7tf7mid417.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

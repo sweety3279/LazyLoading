@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Architecture App</string>
+
+  <string name="action_sync">Sync</string>
+  <string name="action_search">Search</string>
+
+  <!-- Temp -->
+  <string name="title_home">COMBOS</string>
+  <string name="title_dashboard">DRINKS</string>
+  <string name="title_notifications">CREPES</string>
+</resources>
